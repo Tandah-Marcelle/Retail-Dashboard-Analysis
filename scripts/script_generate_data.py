@@ -3,15 +3,20 @@ from sqlalchemy import create_engine, text
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # =========================================================
 # 1. DATABASE CONNECTION
 # =========================================================
-DB_HOST = "localhost"
-DB_PORT = "5432"
-DB_NAME = "northpeak_db"
-DB_USER = "postgres"
-DB_PASS = "marcelle12345"  
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = os.getenv("DB_PORT", "5432")
+DB_NAME = os.getenv("DB_NAME", "northpeak_db")
+DB_USER = os.getenv("DB_USER", "postgres")
+DB_PASS = os.getenv("DB_PASS")
 
 engine = create_engine(f"postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}")
 print("Connecting to PostgreSQL...")
