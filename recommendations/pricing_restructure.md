@@ -1,7 +1,7 @@
 # Pricing Restructure Recommendations
 ## NorthPeak Retail — Strategic Pricing Reform
 
-**Prepared by:** Data Analytics Team  
+**Prepared by:** TANDAH DJIMELI MARCELLE  
 **Date:** October 2026
 
 ---
