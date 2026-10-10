@@ -1,7 +1,7 @@
 # Category Performance Recommendations
 ## NorthPeak Retail — Product Category Strategy
 
-**Prepared by:** Data Analytics Team  
+**Prepared by:** TANDAH DJIMELI MARCELLE  
 **Date:** October 2026
 
 ---
