@@ -381,8 +381,8 @@ All project documentation lives in the `/Docs` folder:
 
 ## License
 
-This project is for educational and portfolio purposes. The data is entirely synthetic and does not represent any real company, individual, or business operation.
+This project is for portfolio purpose. The data is entirely synthetic and does not represent any real company, individual, or business operation.
 
 ---
 
-> Built with PostgreSQL, Python, and Power BI | NorthPeak Retail — Cameroon
+> Built with PostgreSQL, Python, and Power BI | NorthPeak Retail — Cameroon | by TANDAH DJIMELI MARCELLE | Aspiring Data and Analysis Specialist [marcelle.djimstech.com](https://djimstech.com)
