@@ -14,9 +14,10 @@
 6. [Key Findings](#key-findings)
 7. [Power BI Dashboard](#power-bi-dashboard)
 8. [Python Analysis — Notebook Visuals](#python-analysis--notebook-visuals)
-9. [Getting Started](#getting-started)
-10. [Documentation](#documentation)
-11. [License](#license)
+9. [Recommendations](#recommendations)
+10. [Getting Started](#getting-started)
+11. [Documentation](#documentation)
+12. [License](#license)
 
 ---
 
@@ -359,6 +360,55 @@ jupyter notebook notebooks/visulaization_retail_analysis.ipynb
 
 ### Open the Dashboard
 Open `powerbi/Northpeak retail Dashboard Analysis.pbix` in Power BI Desktop. Connect to your local PostgreSQL instance when prompted.
+
+---
+
+## Recommendations
+
+Strategic recommendations derived from the full analysis. Start with the executive summary, then drill into the area most relevant to your role.
+
+| # | Document | Audience | Core Question Answered |
+|---|----------|----------|------------------------|
+| 1 | [`recommendations/executive_summary.md`](recommendations/executive_summary.md) | CEO / Leadership | What is the business problem and what must we decide? |
+| 2 | [`recommendations/discount_strategy.md`](recommendations/discount_strategy.md) | Sales Director / Finance | How do we fix the discount problem specifically? |
+| 3 | [`recommendations/category_recommendations.md`](recommendations/category_recommendations.md) | Category Managers | What do we do differently per product category? |
+| 4 | [`recommendations/regional_action_plan.md`](recommendations/regional_action_plan.md) | Sales Manager / Operations | What actions are needed by region and channel? |
+| 5 | [`recommendations/pricing_restructure.md`](recommendations/pricing_restructure.md) | Finance / Sales Leadership | How do we restructure prices to protect margins long term? |
+
+### Priority Actions
+
+**Immediate (This Quarter)**
+- Implement 15% hard discount cap on Technology and Furniture
+- Implement 10% cap on Office Supplies
+- Configure POS/order system to enforce these ceilings
+- Publish formal three-tier price list for all 9 products
+
+**Short-Term (Q1 2027)**
+- Launch tiered discount authorization model (Reps → Manager → Finance)
+- Introduce volume discount ladder tied to quantity sold
+- Launch Corporate Account program in Douala and Yaoundé
+- Test Laptop + Headset bundle pricing
+
+**Medium-Term (Q2 2027)**
+- Expand online channel to 6 remaining regions
+- Test 5% Furniture price increase in Tier 1 regions
+- Launch Office Supplies subscription model for Corporate customers
+- Add "Price Realization %" KPI to Power BI dashboard
+
+### Key Numbers
+
+| Metric | Value |
+|--------|-------|
+| Margin decline (2024→2026) | -3.33 pp (40.62% vs. 45% target) |
+| Total discounts given away | 8.46 billion FCFA |
+| Orders above 20% discount | 19.11% (13,377 orders) |
+| Discount ↔ Margin correlation | -0.87 |
+| Margin at <10% discount | ~48% |
+| Margin at >40% discount | ~5% |
+| Recoverable profit (est.) | 2.1 – 4.2 billion FCFA |
+| Best category (Office Supplies) | ~50% margin |
+| Worst sub-category (Computers) | ~37% margin |
+| Top region by profit | North-West |
 
 ---
 
