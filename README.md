@@ -385,4 +385,4 @@ This project is for portfolio purpose. The data is entirely synthetic and does n
 
 ---
 
-> Built with PostgreSQL, Python, and Power BI | NorthPeak Retail — Cameroon | by TANDAH DJIMELI MARCELLE | Aspiring Data and Analysis Specialist [marcelle.djimstech.com](https://djimstech.com)
+> Built with PostgreSQL, Python, and Power BI | NorthPeak Retail — Cameroon | by TANDAH DJIMELI MARCELLE | Aspiring Data and Analysis Specialist [marcelle.djimstech.com](https://marcelle.djimstech.com)
