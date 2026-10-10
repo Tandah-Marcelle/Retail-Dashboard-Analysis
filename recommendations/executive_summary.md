@@ -1,7 +1,7 @@
 # Executive Summary Report
 ## NorthPeak Retail — Profit Margin Crisis Analysis
 
-**Prepared by:** Data Analytics Team  
+**Prepared by:** TANDAH DJIMELI MARCELLE  
 **Period Analyzed:** January 2024 – September 2026  
 **Report Date:** October 2026  
 **Classification:** Strategic — For Leadership Review
