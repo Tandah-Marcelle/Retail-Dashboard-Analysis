@@ -1,7 +1,7 @@
 # Regional Action Plan
 ## NorthPeak Retail — Geographic & Channel Strategy
 
-**Prepared by:** Data Analytics Team  
+**Prepared by:** TANDAH DJIMELI MARCELLE  
 **Date:** October 2026
 
 ---

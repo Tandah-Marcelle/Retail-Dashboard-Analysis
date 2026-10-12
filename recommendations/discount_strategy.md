@@ -1,7 +1,7 @@
 # Discount Strategy Recommendations
 ## NorthPeak Retail — Pricing Discipline & Promotional Policy Reform
 
-**Prepared by:** Data Analytics Team  
+**Prepared by:** TANDAH DJIMELI MARCELLE  
 **Date:** October 2026  
 **Priority:** CRITICAL — Immediate Action Required
 
